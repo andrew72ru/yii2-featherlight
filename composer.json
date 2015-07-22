@@ -1,21 +1,21 @@
 {
-    "name": "andrew72ru/yii2-featherlight",
-    "description": "noelboss/featherlight for yii-2",
-    "type": "yii2-extension",
-    "keywords": ["yii2","extension","featherlight","lightbox"],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "andrew72ru",
-            "email": "andrew72ru@gmail.com"
-        }
-    ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
-    "autoload": {
-        "psr-4": {
-            "andrew72ru\\featherlight\\": ""
-        }
+  "name": "andrew72ru/yii2-featherlight",
+  "description": "noelboss/featherlight for yii-2",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","featherlight","lightbox"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "andrew72ru",
+      "email": "andrew72ru@gmail.com"
     }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "andrew72ru\\featherlight\\": ""
+    }
+  }
 }
