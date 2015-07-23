@@ -22,6 +22,7 @@ class FeatherlightGalleryAsset extends AssetBundle
     ];
 
     public $depends = [
+        'andrew72ru\featherlight\FeatherlightAsset',
         'yii\web\JqueryAsset',
     ];
 

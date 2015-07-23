@@ -2,7 +2,6 @@
 
 namespace andrew72ru\featherlight;
 use yii\helpers\Html;
-use yii\helpers\Url;
 
 class FeatherLight extends \yii\base\Widget
 {
