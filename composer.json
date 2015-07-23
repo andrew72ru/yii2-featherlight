@@ -10,6 +10,7 @@
       "email": "andrew72ru@gmail.com"
     }
   ],
+  "minimum-stability": "stable",
   "require": {
     "yiisoft/yii2": "*"
   },
